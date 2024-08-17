@@ -41,4 +41,4 @@ function showRandomGif() {
     }, 5000);
 }
 
-setInterval(showRandomGif, 500); // Make GIFs appear every 5 seconds
+setInterval(showRandomGif, 2000); // Make GIFs appear every 5 seconds
